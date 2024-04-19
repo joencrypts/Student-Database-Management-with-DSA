@@ -4,6 +4,8 @@ The Student Database Management System (SDMS) is a Python program for managing s
 
 This Python program allows users to manage a student database, including inserting new students, searching for students, editing student details, exporting student information, and printing the database in spreadsheet format.
 
+edit the variables in fakke.py to create a fake list of db with random names,email and marks.
+
 ## Getting Started
 
 ### Prerequisites
@@ -19,7 +21,7 @@ This Python program allows users to manage a student database, including inserti
 ```bash
 pip install pandas memory-profiler faker
 
-Database Setup
+```Database Setup
 
     Ensure you have SQLite3 installed.
     Run the following command to create the database file (StudentDatabase.db) and the students table:
