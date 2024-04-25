@@ -1,7 +1,5 @@
 # Student-Database-Management-with-DSA
 The Student Database Management System (SDMS) is a Python program for managing student records. It offers functions to insert, search, edit, export, and print student data, providing a user-friendly solution for educational institutions.
-# Student Database Management System (SDMS)
-
 This Python program allows users to manage a student database, including inserting new students, searching for students, editing student details, exporting student information, and printing the database in spreadsheet format.
 
 edit the variables in fakke.py to create a fake list of db with random names,email and marks.
